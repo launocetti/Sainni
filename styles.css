@@ -10,7 +10,6 @@ body{
     background-color: linear-gradient(red, yellow, blue, green);
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
-    background–color: #red;
   }
 
 
@@ -27,29 +26,15 @@ body {
 }
 */
 
-.body {
-    background-color: #abcc17;
-    color: #fff;
-  }
-
-#body {
-    background-color: #abcc17;
-    color: #fff;
-  }
-
 
   .container {
     min-width: 992px !important;
     background-image: url('./imagenes/fondo-pastel.jpg');
-    background-color: #abcc17;
-    color: #fff;
   }
   
   .navbar {
     display: none;
     background-image: url('./imagenes/fondo-pastel.jpg');
-    background-color: #abcc17;
-    color: #fff;
   }
 
   .badge {
