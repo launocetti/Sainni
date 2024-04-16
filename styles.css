@@ -41,11 +41,15 @@ body {
   .container {
     min-width: 992px !important;
     background-image: url('./imagenes/fondo-pastel.jpg');
+    background-color: #abcc17;
+    color: #fff;
   }
   
   .navbar {
     display: none;
     background-image: url('./imagenes/fondo-pastel.jpg');
+    background-color: #abcc17;
+    color: #fff;
   }
 
   .badge {
