@@ -27,6 +27,10 @@ body {
 }
 */
 
+body{
+    background-color: #red;
+}
+
   .container {
     min-width: 992px !important;
     background-image: url('./imagenes/fondo-pastel.jpg');
