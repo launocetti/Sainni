@@ -24,19 +24,29 @@ body {
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
 }
-*/
 
-body {background-color: #red;}
-
-  .container {
-    min-width: 992px !important;
-    background-image: url('./imagenes/fondo-pastel.jpg');
-  }
-  
   .navbar {
     display: none;
     background-image: url('./imagenes/fondo-pastel.jpg');
   }
+
+*/
+
+body {
+
+    min-width: 992px !important;
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-image: url("imagenes/imagen-fondo4.jpg");
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+  
+}
+  
 
   .badge {
     border: 0.125rem solid #000;
